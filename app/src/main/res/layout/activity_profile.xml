@@ -58,8 +58,8 @@
         android:id="@+id/btn_change_password"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/card"
-        android:layout_marginTop="@dimen/button_margin"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
         android:drawableRight="@drawable/ic_lock"
         android:paddingLeft="@dimen/button_padding"
         android:text="Change Password" />

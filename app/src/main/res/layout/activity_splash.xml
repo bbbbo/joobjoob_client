@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/rectangle"
+    tools:context="com.example.wonjun.testuniton.SplashActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="258dp"
+        android:layout_marginLeft="162dp">
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="34dp"
+            android:layout_height="43dp"
+            app:srcCompat="@drawable/ic_rice" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="318dp"
+        android:layout_marginLeft="162dp">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="34dp"
+            android:layout_height="43dp"
+            app:srcCompat="@drawable/name_jupjup" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="579dp"
+        android:layout_marginLeft="79dp">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="202dp"
+            android:layout_height="14dp"
+            app:srcCompat="@drawable/copyright_jupjup_a" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

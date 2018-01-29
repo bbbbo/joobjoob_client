@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TestUNITON.iml" filepath="$PROJECT_DIR$/TestUNITON.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/joobjoob_client.iml" filepath="$PROJECT_DIR$/joobjoob_client.iml" />
     </modules>
   </component>
 </project>
